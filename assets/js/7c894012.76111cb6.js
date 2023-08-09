@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrotorflight_docs=self.webpackChunkrotorflight_docs||[]).push([[8453],{6763:t=>{t.exports=JSON.parse('{"title":"Tutorial - Quickstart","slug":"/category/tutorial---quickstart","permalink":"/docs/category/tutorial---quickstart","navigation":{"next":{"title":"What is Rotorflight?","permalink":"/docs/Tutorial - Quickstart/Quickstart 1"}}}')}}]);
