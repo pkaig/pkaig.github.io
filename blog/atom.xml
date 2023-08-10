@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/blog</id>
+    <title>Rotorflight Blog</title>
+    <updated>2023-08-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/blog"/>
+    <subtitle>Rotorflight Blog</subtitle>
+    <icon>https://github.com/img/rffavicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[August 2023]]></title>
+        <id>https://github.com/blog/2023/08/09/August Video</id>
+        <link href="https://github.com/blog/2023/08/09/August Video"/>
+        <updated>2023-08-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Goblin 420 Raw]]></summary>
+        <content type="html"><![CDATA[<p>Goblin 420 Raw</p><iframe width="560" height="315" src="https://www.youtube.com/embed/KqCQ4_y-y4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe><p>Specter V2 with Rotorflight 2 Snapshot 20230602</p><iframe width="560" height="315" src="https://www.youtube.com/embed/jOm7vJdtUIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe>]]></content>
+        <author>
+            <name>Phil Kaighin</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="Rotorflight" term="Rotorflight"/>
+    </entry>
+</feed>
