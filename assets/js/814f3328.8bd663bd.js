@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrotorflight_docs=self.webpackChunkrotorflight_docs||[]).push([[2535],{5641:t=>{t.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"August 2023","permalink":"/blog/2023/08/09/August Video"}]}')}}]);
