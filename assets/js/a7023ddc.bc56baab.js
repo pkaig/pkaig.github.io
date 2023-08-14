@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrotorflight_docs=self.webpackChunkrotorflight_docs||[]).push([[1713],{3457:o=>{o.exports=JSON.parse('[{"label":"Rotorflight","permalink":"/blog/tags/rotorflight","count":2}]')}}]);
