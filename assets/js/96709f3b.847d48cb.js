@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrotorflight_docs=self.webpackChunkrotorflight_docs||[]).push([[3487],{9701:s=>{s.exports=JSON.parse('{"label":"HSI","permalink":"/blog/tags/hsi","allTagsPath":"/blog/tags","count":1}')}}]);
